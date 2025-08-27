@@ -43,43 +43,41 @@
 
 ## 📊 GitHub Analytics
 
+<div>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=programmerbanda&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=programmerbanda&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+</div>
+<div>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerbanda&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=programmerbanda&theme=tokyonight&hide_border=false" width="100%" height="330px" alt="streak graph" />
+</div>
+
+
+
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
+## 💜 Views and Followers:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmerbanda&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanda&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+    <a href="https://github.com/AmanC77/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=programmerbanda&color=blue&style=for-the-badge" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/AmanC77?tab=followers">
+        <img src="https://img.shields.io/github/followers/programmerbanda?label=Followers&style=for-the-badge" alt="Followers" />
+    </a> 
 </p>
 
----
-
-## 🔥 GitHub Streak & Activity
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner">
+</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=programmerbanda&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmerbanda&theme=react-dark&hide_border=true" width="100%"/>
-</p>
+### ✍️ Dev Quote
 
----
-
-## 🚀 Highlight Projects
-- 🌐 [ExploreMore Travel Website](https://github.com/programmerbanda/exploremore)  
-- 📊 [Admin Dashboard](https://github.com/programmerbanda/admin-dashboard)  
-- ✅ [Task Manager (Trello-like App)](https://github.com/programmerbanda/task-manager)  
-
-*(More projects on my [GitHub Repos](https://github.com/programmerbanda?tab=repositories))*
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
-  <a href="https://instagram.com/your-instagram" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
-</p>
-
----
-
-## 🖼️ Random Developer Image
-<p align="center">
-  <img src="https://source.unsplash.com/random/800x400/?developer,coding,technology" alt="Random Image" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="99%"/>
