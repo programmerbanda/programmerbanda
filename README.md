@@ -3,78 +3,82 @@
 <!--
 **programmerbanda/programmerbanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Header GIF -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">  
-
-# 👋 Hi, I'm Programmerbanda  
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-💻 Passionate Frontend Developer | 🌱 Currently learning **React.js** and preparing for **MERN**  
-🎯 Goal: Become a Full-Stack Developer and work globally 🌍  
-✨ Loves: Coding, Coffee ☕, and Movies 🎬  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shubham Tiwari</h1>
+<h3 align="center">🚀 Full Stack Developer (MERN) | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
 
-## 📫 Connect with me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel)](https://tiwarishubh.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/tiwarishubh)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)](https://instagram.com/your-link)  
+## 👨‍💻 About Me
+- 🌱 I’m currently learning **React & Backend (Node.js, Express, MongoDB)**
+- 🎯 2025 Goal: **Master MERN stack & contribute to Open Source**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS, and Web Development**
+- 📫 How to reach me: **tiwarishubh@example.com**
+- ⚡ Fun fact: I love building real-world projects more than following tutorials
 
 ---
 
-## ⚡ Tech Stack  
+## 🛠️ Skills & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwarishubh&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubh&layout=compact&theme=radical" alt="languages" height="165"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=tiwarishubh&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubh&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tiwarishubh&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarishubh&theme=radical" alt="streak"/>
-</p>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarishubh&theme=react-dark&hide_border=true" width="100%"/>
+</p>
 
 ---
 
-## 🌆 Image of the Hour  
-![Random Unsplash](https://source.unsplash.com/random/800x400/?coding,technology,developer)  
+## 🚀 Highlight Projects
+- 🌐 [ExploreMore Travel Website](https://github.com/tiwarishubh/exploremore)  
+- 📊 [Admin Dashboard](https://github.com/tiwarishubh/admin-dashboard)  
+- ✅ [Task Manager (Trello-like App)](https://github.com/tiwarishubh/task-manager)  
+
+*(More projects on my [GitHub Repos](https://github.com/tiwarishubh?tab=repositories))*
 
 ---
 
-## 🎉 Fun Zone  
-- ⚡ Fun fact: I love debugging more than writing code 😅  
-- 🎵 Music + Code = Perfect Combo 🎧  
-- 🏆 Motto: *“First, solve the problem. Then, write the code.”*  
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="https://twitter.com/your-twitter" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff"/></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
+</p>
 
 ---
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-<img src="https://raw.githubusercontent.com/itsnporg/itsnporg/main/img/anim.webp" width="200px">
-
-</div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖼️ Random Developer Image
+<p align="center">
+  <img src="https://source.unsplash.com/random/800x400/?developer,coding,technology" alt="Random Image" />
+</p>
