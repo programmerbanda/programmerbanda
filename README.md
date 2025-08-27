@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **React & Backend (Node.js, Express, MongoDB)**
 - 🎯 2025 Goal: **Master MERN stack & contribute to Open Source**
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, and Web Development**
-- 📫 How to reach me: **programmerbanda@example.com**
 - ⚡ Fun fact: I love building real-world projects more than following tutorials
 - ⚡Welcome to my second GitHub account! If you’d like to know who’s behind this, follow along — surprises await!
 
