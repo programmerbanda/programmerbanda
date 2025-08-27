@@ -4,7 +4,7 @@
 **programmerbanda/programmerbanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Header GIF -->
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Shubham Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Programmerbanda</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN) | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
@@ -13,8 +13,9 @@
 - 🌱 I’m currently learning **React & Backend (Node.js, Express, MongoDB)**
 - 🎯 2025 Goal: **Master MERN stack & contribute to Open Source**
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, and Web Development**
-- 📫 How to reach me: **tiwarishubh@example.com**
+- 📫 How to reach me: **programmerbanda@example.com**
 - ⚡ Fun fact: I love building real-world projects more than following tutorials
+- ⚡Welcome to my second GitHub account! If you’d like to know who’s behind this, follow along — surprises await!
 
 ---
 
@@ -43,29 +44,29 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwarishubh&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubh&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerbanda&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerbanda&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiwarishubh&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=programmerbanda&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarishubh&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmerbanda&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 ## 🚀 Highlight Projects
-- 🌐 [ExploreMore Travel Website](https://github.com/tiwarishubh/exploremore)  
-- 📊 [Admin Dashboard](https://github.com/tiwarishubh/admin-dashboard)  
-- ✅ [Task Manager (Trello-like App)](https://github.com/tiwarishubh/task-manager)  
+- 🌐 [ExploreMore Travel Website](https://github.com/programmerbanda/exploremore)  
+- 📊 [Admin Dashboard](https://github.com/programmerbanda/admin-dashboard)  
+- ✅ [Task Manager (Trello-like App)](https://github.com/programmerbanda/task-manager)  
 
-*(More projects on my [GitHub Repos](https://github.com/tiwarishubh?tab=repositories))*
+*(More projects on my [GitHub Repos](https://github.com/programmerbanda?tab=repositories))*
 
 ---
 
