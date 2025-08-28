@@ -26,4 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerbanda&show_icons=true&locale=en" alt="programmerbanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerbanda&" alt="programmerbanda" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmerbanda" alt="programmerbanda" />
+</p>
+
